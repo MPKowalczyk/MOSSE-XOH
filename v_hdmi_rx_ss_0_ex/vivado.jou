@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Mar 12 11:35:07 2019
+# Process ID: 27955
+# Current directory: /home/vision/Documents/Vivado/2018.2_Projects/v_hdmi_rx_ss_0_ex
+# Command line: vivado -notrace -source /home/vision/Documents/Vivado/2018.2_Projects/mainVideoProcessing_ZCU104/.Xil/v_hdmi_rx_ss_0/tmp_v_hdmi_rx_ss_0.srcs/sources_1/ip/v_hdmi_rx_ss_0/v_hdmi_rx_ss_0_ex.tcl
+# Log file: /home/vision/Documents/Vivado/2018.2_Projects/v_hdmi_rx_ss_0_ex/vivado.log
+# Journal file: /home/vision/Documents/Vivado/2018.2_Projects/v_hdmi_rx_ss_0_ex/vivado.jou
+#-----------------------------------------------------------
+start_gui
+source /home/vision/Documents/Vivado/2018.2_Projects/mainVideoProcessing_ZCU104/.Xil/v_hdmi_rx_ss_0/tmp_v_hdmi_rx_ss_0.srcs/sources_1/ip/v_hdmi_rx_ss_0/v_hdmi_rx_ss_0_ex.tcl -notrace
+update_compile_order -fileset sources_1

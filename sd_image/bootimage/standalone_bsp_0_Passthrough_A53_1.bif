@@ -1,0 +1,6 @@
+//arch = zynqmp; split = false; format = BIN
+the_ROM_image:
+{
+	[destination_device = pl]/home/vision/Documents/Vivado/2018.2_Projects/mainfftTestCross_ZCU104/mainfftTestCross_ZCU104.sdk/exdes_wrapper_hw_platform_0/exdes_wrapper.bit
+	[destination_cpu = a53-0]/home/vision/Documents/Vivado/2018.2_Projects/mainfftTestCross_ZCU104/mainfftTestCross_ZCU104.sdk/standalone_bsp_0_Passthrough_A53_1/Debug/standalone_bsp_0_Passthrough_A53_1.elf
+}
