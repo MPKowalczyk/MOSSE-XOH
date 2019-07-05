@@ -3,12 +3,6 @@ Project name: Vision System for object tracking in UltraHD resolution video stre
 Date: 30.06.2019
 Version of uploaded archive: 1.0
 
-University name: AGH University of Science and Technology in Cracow
-Supervisor name: Tomasz Kryjak
-Supervisor e-mail: tomasz.kryjak@agh.edu.pl
-Participant(s): Marcin Kowalczyk
-Email: kowalczyk@agh.edu.pl
-
 Board used: ZCU104
 Vivado Version: 2018.2
 Brief description of project:
